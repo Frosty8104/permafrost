@@ -1,0 +1,37 @@
+<!-- PERMAFROST SITEMAP -->
+<urlset xmlns="http://sitemaps.org/schemas/sitemap/0.9" >
+<url>
+    <loc>https://frosty8104.github.io/permafrost/</loc>
+    <lastmod></lastmod>
+</url>
+<url>
+    <loc>https://Frosty8104.github.io/permafrost/about</loc>
+    <lastmod></lastmod>
+    <changefreq></changefreq>
+    <priority></priority>
+</url>
+<url>
+    <loc>https://Frosty8104.github.io/permafrost/portfolio</loc>
+    <lastmod></lastmod>
+    <changefreq></changefreq>
+    <priority></priority>
+</url>
+<url>
+    <loc>https://Frosty8104.github.io/permafrost/contact</loc>
+    <lastmod></lastmod>
+    <changefreq></changefreq>
+    <priority></priority>    
+</url>
+<url>
+    <loc>https://Frosty8104.github.io/permafrost/services</loc>
+    <lastmod></lastmod>
+    <changefreq></changefreq>
+    <priority></priority>
+</url>
+<url>
+    <loc>https://Frosty8104.github.io/permafrost/blog</loc>
+    <lastmod></lastmod>
+    <changefreq></changefreq>
+    <priority></priority>
+</url>
+</urlset>
